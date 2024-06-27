@@ -1,4 +1,4 @@
 # learngit
 this is my first git repository
 </br>
-author-kamini sharma
+author-kamini sharma (learngit)
